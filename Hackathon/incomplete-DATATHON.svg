@@ -1191,13 +1191,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.3726345"
-     inkscape:cx="-87.21683"
-     inkscape:cy="501.83222"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="1.2936292"
+     inkscape:cx="438.30179"
+     inkscape:cy="877.3766"
+     inkscape:window-width="1900"
+     inkscape:window-height="988"
+     inkscape:window-x="10"
+     inkscape:window-y="48"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"><inkscape:page
        x="0"
@@ -1208,7 +1208,7 @@
        height="1122.5601"
        margin="0"
        bleed="0"
-       inkscape:export-filename="incomplete-DATATHON.jpg"
+       inkscape:export-filename="incomplete-DATATHON.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" /></sodipodi:namedview><g
      id="layer-MC0"
@@ -2133,7 +2133,7 @@
          x="45.086548"
          y="763.68036"
          id="tspan208"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.7101px;font-family:Prototype;-inkscape-font-specification:Prototype;fill:#982e21;fill-opacity:1;stroke-width:3.52333">BTD 15k</tspan></text><g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.7101px;font-family:Prototype;-inkscape-font-specification:Prototype;fill:#982e21;fill-opacity:1;stroke-width:3.52333">BDT 15k</tspan></text><g
        id="g289"
        transform="matrix(0.17438696,-0.01226403,0.01226403,0.17438696,245.78342,665.73362)"><path
          style="fill:#ecf0f1"
@@ -2211,7 +2211,7 @@
          x="116.91702"
          y="911.33618"
          id="tspan2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.3015px;font-family:Prototype;-inkscape-font-specification:Prototype;fill:#982e21;fill-opacity:1;stroke-width:2.99465">BTD 10k</tspan></text><path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.3015px;font-family:Prototype;-inkscape-font-specification:Prototype;fill:#982e21;fill-opacity:1;stroke-width:2.99465">BDT 10k</tspan></text><path
        style="opacity:1;fill:#e3b64e;fill-opacity:1;stroke:none;stroke-width:0.91133;stroke-linecap:round;stroke-linejoin:round"
        d="m -6.5689501,966.30596 c 6.59010304,1.5727 265.6315401,-5.41349 265.6315401,-5.41349 l 10.40779,111.51093 -283.453564,-21.6629 z"
        id="path290"
@@ -2233,7 +2233,7 @@
          x="93.753311"
          y="1042.5806"
          id="tspan291"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.6882px;font-family:Prototype;-inkscape-font-specification:Prototype;fill:#982e21;fill-opacity:1;stroke-width:2.28411">BTD 8k</tspan></text><g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.6882px;font-family:Prototype;-inkscape-font-specification:Prototype;fill:#982e21;fill-opacity:1;stroke-width:2.28411">BDT 8k</tspan></text><g
        id="g307"
        transform="matrix(0.33825461,0,0,0.33825461,672.04377,578.47611)"
        inkscape:label="Prople generating ideas"><path
@@ -3212,7 +3212,7 @@
              x="396.29672"
              y="1248.624"
              style="text-align:center;text-anchor:middle;fill:#982e21;fill-opacity:1;stroke-width:0.628053"
-             id="tspan311">Registration Fee: BTD 0,000</tspan></text></g></g><g
+             id="tspan311">Registration Fee: BDT 0,000</tspan></text></g></g><g
        id="g7"
        transform="translate(-12.362833,-1.6526528)"><text
          xml:space="preserve"
