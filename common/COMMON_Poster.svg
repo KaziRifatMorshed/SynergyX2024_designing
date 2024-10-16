@@ -1348,9 +1348,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="292.74221"
-     inkscape:cy="560.02857"
+     inkscape:zoom="2"
+     inkscape:cx="330.75"
+     inkscape:cy="588.5"
      inkscape:window-width="1900"
      inkscape:window-height="988"
      inkscape:window-x="10"
@@ -4526,7 +4526,7 @@
          x="439.81555"
          y="598.32587"
          style="fill:#fcb205;fill-opacity:1"
-         id="tspan33">X:XX am - X:XX pm</tspan></text><text
+         id="tspan33">10:00 am - 1:00 pm</tspan></text><text
        xml:space="preserve"
        style="font-size:19.3742px;line-height:1;font-family:Prototype;-inkscape-font-specification:Prototype;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fcb205;fill-opacity:1;stroke:none;stroke-width:0.908166;stroke-linecap:square"
        x="439.83102"
@@ -4568,8 +4568,8 @@
          y="579.05518"
          style="fill:#fcb205;fill-opacity:1"
          id="tspan46"><tspan
-   id="tspan45"
-   style="fill:#ffffff">Entry fee</tspan></tspan><tspan
+           id="tspan45"
+           style="fill:#ffffff">Entry fee</tspan></tspan><tspan
          sodipodi:role="line"
          x="605.65521"
          y="600.38849"
