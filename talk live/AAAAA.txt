@@ -1,6 +1,6 @@
 NATIONAL SYMPOSIUM ON INDUSTRY-ACADEMIA COLLABORATION FOR ICT-ENABLED BANGLADESH
 
-Symposiam Talk
+Symposium Talk
 
 Speaker: Mohammad Tawrit (CEO - BdREN)
 Speech Topic: Boosting Industry-Academia.
@@ -10,7 +10,7 @@ Speech Topic: Boosting Industry-Academia.
 
 NATIONAL SYMPOSIUM ON INDUSTRY-ACADEMIA COLLABORATION FOR ICT-ENABLED BANGLADESH
 
-Symposiam Talk
+Symposium Talk
 
 Speaker: Mahmud Hasan Rana (Senior Sales Manager - Oracle)
 Speech Topic: Cloud Native and Future Ready Modernize Data and IT Infrastructure.
@@ -20,7 +20,7 @@ Speech Topic: Cloud Native and Future Ready Modernize Data and IT Infrastructure
 
 NATIONAL SYMPOSIUM ON INDUSTRY-ACADEMIA COLLABORATION FOR ICT-ENABLED BANGLADESH
 
-Symposiam Talk
+Symposium Talk
 
 Speaker: Md. Sohel Rana (CEO and Founder - NerdDevs)
 Speech Topic: How I Turned into an Entrepreneur from Programmer.
@@ -30,17 +30,17 @@ Speech Topic: How I Turned into an Entrepreneur from Programmer.
 
 NATIONAL SYMPOSIUM ON INDUSTRY-ACADEMIA COLLABORATION FOR ICT-ENABLED BANGLADESH
 
-Symposiam Talk
+Symposium Talk
 
 Speaker: Mohammad Oli Ahad (Founder - Intelligent Machines Limited)
-Speech Topic: Solving High- Value Problems with AI.
+Speech Topic: Solving High-Value Problems with AI.
 
 
 
 
 NATIONAL SYMPOSIUM ON INDUSTRY-ACADEMIA COLLABORATION FOR ICT-ENABLED BANGLADESH
 
-Symposiam Talk
+Symposium Talk
 
 Speaker: Engr. Md.Tomig UddinAhmed (Senior System Analyst - Planning Division, Ministry of Planning)
 Speech Topic: Career Path of Government Services.
@@ -49,7 +49,7 @@ Speech Topic: Career Path of Government Services.
 
 NATIONAL SYMPOSIUM ON INDUSTRY-ACADEMIA COLLABORATION FOR ICT-ENABLED BANGLADESH
 
-Symposiam Talk
+Symposium Talk
 
 Speaker: Nazmul Islam Bhuiyan (Director (eGP) - Dohatec)
 Speech Topic: Building the Government of Tomorrow: Collaborative Efforts Between the Software Industry and Government for Sustainable National Development.
@@ -60,7 +60,7 @@ Speech Topic: Building the Government of Tomorrow: Collaborative Efforts Between
 
 NATIONAL SYMPOSIUM ON INDUSTRY-ACADEMIA COLLABORATION FOR ICT-ENABLED BANGLADESH
 
-Symposiam Talk
+Symposium Talk
 
 Speaker: Md. Nadim Saker (Manager - Optimizely)
 Speech Topic: Software Quality Assurance in Our Industry and its Career Prospects.
@@ -71,7 +71,7 @@ Speech Topic: Software Quality Assurance in Our Industry and its Career Prospect
 
 NATIONAL SYMPOSIUM ON INDUSTRY-ACADEMIA COLLABORATION FOR ICT-ENABLED BANGLADESH
 
-Symposiam Talk
+Symposium Talk
 
 Speaker: Md Amanur Rahman (Vice President - National Bank Limited, Head Office, Dhaka)
 Speech Topic: Future of IT Students in Bank IT Sector: A Promising Landscape.

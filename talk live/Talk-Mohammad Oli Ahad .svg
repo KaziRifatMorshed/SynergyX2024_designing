@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="Talk-Mohammad Oli Ahad .svg"
    inkscape:export-filename="Talk-Oli Ahad.png"
    inkscape:export-xdpi="96"
@@ -31,9 +31,9 @@
      inkscape:cx="1011.1157"
      inkscape:cy="484.41634"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"><sodipodi:guide
@@ -2984,7 +2984,7 @@
    width="333"
    height="417"
    id="image1-3_00000119079021627493964500000011534517332557176744_"
-   xlink:href="../Final%20banner/92DA6ADE.png"
+   xlink:href="..%5CFinal%20banner%5C92DA6ADE.png"
    transform="matrix(1.0981,0,0,1.0981,2647.7859,4466.6924)">
 			</image>
 		</g><g
@@ -2996,7 +2996,7 @@
    width="300"
    height="300"
    id="image1-8_00000140705052180729672160000013243306181152973192_"
-   xlink:href="../Final%20banner/92DA6AD9.png"
+   xlink:href="..%5CFinal%20banner%5C92DA6AD9.png"
    transform="matrix(1.5828,0,0,1.5828,4803.4722,4458.2349)">
 			</image>
 			<text
@@ -3481,15 +3481,15 @@
        transform="matrix(2.4223767,0,0,2.4223767,-985.90328,-946.06578)"><tspan
          x="977.89948"
          y="653.10553"
-         id="tspan6"><tspan
+         id="tspan5"><tspan
            style="fill-opacity:1;stroke:none"
-           id="tspan2">Speech Topic:
+           id="tspan1">Speech Topic:
 </tspan></tspan><tspan
          x="977.89948"
          y="677.10553"
-         id="tspan8"><tspan
+         id="tspan10"><tspan
            style="fill-opacity:1;stroke:none"
-           id="tspan7">Solving High- Value Problemswith AI</tspan></tspan></text><image
+           id="tspan9">Solving High-Value Problems with AI</tspan></tspan></text><image
        width="329.37158"
        height="329.37158"
        preserveAspectRatio="none"
